@@ -38,4 +38,7 @@ fn main() {
         }
     }
     mod password_generation;
+    mod encryption;
+        
+    }
 } 
