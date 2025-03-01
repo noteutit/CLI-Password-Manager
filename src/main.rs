@@ -39,4 +39,3 @@ fn main() {
     }
     mod password_generation;
 } 
-
